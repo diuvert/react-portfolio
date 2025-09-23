@@ -25,13 +25,13 @@ function About() {
 						<p>
 							I am a dedicated and passionate web developer with a strong interest in building impactful, user-friendly applications. I enjoy learning new technologies and continuously improving my skills to deliver high-quality solutions. I help research companies. My work is for you. I use JavaScript, React, Node.js, Python, PHP, AWS, Docker. These tools are strong. They change ideas to reality.
 
-							One of my public repositories that you can find on Github is: 
+							One of my public repositories that you can find on Github is:<br></br> 
 							<a
 								href="https://github.com/diuvert/react-portfolio"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
-								https://github.com/diuvert/my-awesome-project
+								https://github.com/diuvert/react-portfolio
 							</a>
 						</p>
 						<p>I am currently studying software engineering, the Ai program, and I am excited to explore the intersection of technology and humanity. There is a new wave of innovation happening, and I want to be part of it for a better future and a more inclusive digital landscape.</p>

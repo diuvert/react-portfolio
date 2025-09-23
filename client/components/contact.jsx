@@ -74,8 +74,7 @@ function Contact() {
 						className="contact-image"
 					/>
 					<div className="contact-info">
-						<p><strong>Email:</strong> diuvert@gmail.com</p>
-						<p><strong>Phone:</strong> (905) 921-9426</p>
+						<p><strong>Email:</strong> dlopezwo@my.centennialcollege.ca</p>
 						<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/diuvert/" target="_blank" rel="noopener noreferrer">linkedin.com/in/diuvert</a></p>
 						<p><strong>GitHub:</strong> <a href="https://github.com/diuvert" target="_blank" rel="noopener noreferrer">github.com/diuvert</a></p>
 					</div>
