@@ -1,0 +1,8 @@
+PUT http://localhost:5000/api/contacts/68dc2744840369ea5ee0c3c9
+Content-Type: application/json
+
+{
+  "firstname": "AddamPut",
+  "lastname": "LastNamePut",
+  "email": "addamput@my.centennialcollege.ca"
+}
